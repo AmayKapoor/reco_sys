@@ -22,9 +22,10 @@
 	margin-right: auto;
 	color: #e4e0e0;
 }
-/* ("../static/image.jpg") */
+/* "https://wallpapercave.com/wp/wp8852918.jpg" */
+/* () */
 #content {
-	background-image: url("https://wallpapercave.com/wp/wp8852918.jpg");
+	background-image: url("../static/image.jpg");
 	background-color: #181818;
 	font-family: 'Noto Sans JP', sans-serif;
 }
