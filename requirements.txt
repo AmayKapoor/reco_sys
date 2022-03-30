@@ -42,6 +42,7 @@ numpy==1.21.0
 optional-django==0.1.0
 OSlash==0.6.3
 outcome==1.1.0
+pandas>=0.19
 
 pathspec==0.9.0
 platformdirs==2.4.1
@@ -58,7 +59,8 @@ rfc3986==1.5.0
 rsa==4.8
 s3transfer==0.5.2
 scikit-learn==0.24.2
-scipy==1.7.0
+scipy>=0.15.1
+
 selenium==4.0.0
 six==1.16.0
 sklearn==0.0
